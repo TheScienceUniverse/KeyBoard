@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="key_box_side">30dp</dimen>
+
+	<dimen name="key_box_height">30dp</dimen>
+
+	<dimen name="key_box_width">25dp</dimen>
+	<dimen name="key_box_width_1_5">37.5dp</dimen>
+	<dimen name="key_box_width_2">50dp</dimen>
+	<dimen name="key_box_width_2_5">62.5dp</dimen>
+	<dimen name="key_box_width_3">60dp</dimen>
+	<dimen name="key_box_width_5_5">137.5dp</dimen>
+
+	<dimen name="key_box_primary_side">20dp</dimen>
+	<dimen name="key_box_secondary_side">10dp</dimen>
+
+	<dimen name="key_val_primary_size">15sp</dimen>
+	<dimen name="key_val_secondary_size">7.5sp</dimen>
+</resources>
