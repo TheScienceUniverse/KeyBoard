@@ -7,6 +7,7 @@
 	android:gravity="center"
 	android:layout_gravity="bottom"
 	android:background="@color/keyboard_background"
+	android:padding="20dp"
 >
 	<include layout="@layout/qwerty"/>
 </LinearLayout>
