@@ -541,7 +541,7 @@
 			key:multiple_flag="false"
 			key:type_1="string"
 			key:source_1="@string/txt_semicolon"
-			key:type2="string"
+			key:type_2="string"
 			key:source_2="@string/txt_colon"
 		/>
 		<dev.the01guy.keyboard.views.Key
@@ -552,7 +552,7 @@
 			key:multiple_flag="false"
 			key:type_1="string"
 			key:source_1="@string/txt_apostrophe"
-			key:type2="string"
+			key:type_2="string"
 			key:source_2='"'
 		/>
 		<dev.the01guy.keyboard.views.Key
