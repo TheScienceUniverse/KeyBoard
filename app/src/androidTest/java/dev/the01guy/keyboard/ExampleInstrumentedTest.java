@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
 	public void useAppContext() {
 		// Context of the app under test.
 		Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-		assertEquals("dev.the01guy.qwerty", appContext.getPackageName());
+		assertEquals("dev.the01guy.keyboard_qwerty", appContext.getPackageName());
 	}
 }

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="key">
+		<attr name="action_type" format="string" />
+		<attr name="multiple_flag" format="boolean" />
+		<attr name="type_1" format="string" />
+		<attr name="type_2" format="string" />
+		<attr name="source_1" format="string|reference" />
+		<attr name="source_2" format="string|reference" />
+	</declare-styleable>
+</resources>
